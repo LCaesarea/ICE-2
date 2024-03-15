@@ -1,0 +1,19 @@
+{
+  "name": "ice-2",
+  "version": "1.0.0",
+  "description": "A sample nodejs application to demonstrate how to convert a Javascript application into Typescript",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  },
+  "devDependencies": {
+    "@types/prompt-sync": "^4.2.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.4.2"
+  }
+}
